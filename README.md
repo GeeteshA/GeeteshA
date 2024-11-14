@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://geetesh-portfolio.vercel.app/)
 - 📫 How to reach me: **geeteshaheriya99@gmail.com**
-- 📄 Know about my experiences: [Resume](#)
+- 📄 Know about my experiences:(https://github.com/GeeteshA/GeeteshA/blob/main/Geetesh_Aheriya.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
